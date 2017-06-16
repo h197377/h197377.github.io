@@ -18,11 +18,12 @@ transform:translateY(30%);
 }
 
 #main .image {
-height:400px;
-width:400px;
+height:300px;
+width:300px;
 background:url(/images/profile.jpg);
 background-repeat:no-repeat;
 background-position:center center;
+background-size: 80%;
 -moz-border-radius:100px;
 -webkit-border-radius:100px;
 border-radius:50%;

@@ -49,8 +49,12 @@
       <script data-rocketsrc="https://code.jquery.com/jquery-2.1.4.min.js" type="text/rocketscript" data-rocketoptimized="true"></script><script data-rocketsrc="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js" type="text/rocketscript" data-rocketoptimized="true"></script>
       <script data-rocketsrc="/javascripts/script.js" type="text/rocketscript" data-rocketoptimized="true"></script>
       <script type="text/javascript">
-      	var objDiv = document.getElementById("main");
-		objDiv.scrollTop = objDiv.scrollHeight;
+      	function scrollToBottom(id){
+		   var div = document.getElementById(id);
+		   div.scrollTop = div.scrollHeight - div.clientHeight;
+		}
+
+		scrollToBottom("main");
       </script>
    </body>
 </html>
