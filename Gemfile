@@ -12,6 +12,7 @@ gem "jekyll", "~> 4.2.2"
 gem "minima", "~> 2.5"
 
 gem "minimal-mistakes-jekyll"
+gem "webrick"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
