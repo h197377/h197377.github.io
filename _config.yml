@@ -51,7 +51,12 @@ github_username:  h197377
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 include: ["_pages", "_sass"]
 
