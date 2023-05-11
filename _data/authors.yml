@@ -1,0 +1,10 @@
+Beijie Zhang:
+  # name        : "Beijie Zhang"
+  avatar      : "/assets/images/avatar.jpg"
+  links:
+    - label: "@better_logic"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/better_logic/"
+    - label: "BetterLogic"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/BetterLogic"

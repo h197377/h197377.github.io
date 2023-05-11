@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /about/
+  # - title: "Resume Review"
+  #   url: /resume-review/
+  # - title: "Mock Interview"
+  #   url: /mock-interview/

@@ -1,0 +1,8 @@
+References
+
+
+https://www.markdownguide.org/basic-syntax/
+https://icons8.com/
+https://www.youtube.com/watch?v=hjMx8EuyZJ8&ab_channel=BitBionic
+https://github.com/FortAwesome/Font-Awesome/tree/6.x/svgs/solid
+https://mmistakes.github.io/minimal-mistakes/docs/authors/
