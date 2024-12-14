@@ -22,6 +22,7 @@ defaults:
 #     text: "More text here."
 
 ---
+<b>12/2024: I am currently taking mentees on [MentorCruise](https://mentorcruise.com/mentor/beijiezhang/)! Currently offering a $10 discount if you mention my website. (2 Spots remaining)</b>
 
 # Latest video on <img src="assets/images/icons/youtube.svg" width="40" height="40"> [BetterLogic](https://www.youtube.com/c/BetterLogic)
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Qw1ZP5EDZic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
